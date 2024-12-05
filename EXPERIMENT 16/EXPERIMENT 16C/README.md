@@ -1,14 +1,14 @@
 
 # program file
-![program file](Linked_510.py)
+![program file](Linked_511.py)
 
 # program code 
-![program code](Linked_CODE_510.png)
+![program code](Linked_CODE_511.png)
 
 # sample output
-![sample output](Linked_IO_510.png)
+![sample output](Linked_IO_511.png)
 
 # executed output
-![executed output](Linked_EO_510.png)
+![executed output](Linked_EO_511.png)
 
 
