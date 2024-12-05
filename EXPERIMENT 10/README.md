@@ -8,4 +8,4 @@
 ![sample output](producer-consumer_IO_511.png)
 
 # executed output
-![executed output](producer-consumer_EO_511png)
+![executed output](producer-consumer_EO_511.png)
